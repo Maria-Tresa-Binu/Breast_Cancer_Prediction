@@ -1,0 +1,1 @@
+A machine learning project to determine whether a tumor is malignant or benign in case of breast cancer. This project makes use of Logistic Regression to predict whether the growth is malignant or benign based on the input features.
